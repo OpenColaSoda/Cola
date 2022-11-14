@@ -15,6 +15,19 @@ You can even enjoy it hot with a splash of lemon. We won't tell.
 
 ## Compilation
 
-You can compile OpenCola as a fresh beverage, or as a concentrate for soda on the go.
+Producing cola at scale is outlined in a different document, but if you want the taste of OpenCola at home follow these compilation steps.
 
-For the fresh beverage, follow RECIPE.md, and for the concentrate version follow RECIPE_CONCENTRATE.md
+The detailed recipe is in RECIPE.md, which comes in three parts.
+
+### The Flavoring
+
+This is the heart and soul of OpenCola. You can consider this as "OpenCola Extract" and use it to flavor
+anything from baked goods to syrups.
+
+### The Syrup
+
+This is the sweet liquid that, when mixed with carbonated water, is turned into OpenCola. 
+
+### The Soda
+
+This is the final step of compilation. Once you complete this, you can either enjoy your drink immediately, or store it in the fridge for up to 10 days.
