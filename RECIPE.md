@@ -21,6 +21,8 @@ with all local laws.
 
 ## Step One: OpenCola Cola Flavoring
 
+Essential oils can cause harm to skin and eyes if contacted directly. Wear gloves and eye protection during this step.
+
 |Mass/Volume| Ingredient|
 |:----|:--------:|
 |10.0 g | Gum Arabic |
